@@ -7,3 +7,6 @@ time {
     border-style: dashed none dashed none;
     display: block;
 }
+h1 {
+    font-size: 4em;
+}
